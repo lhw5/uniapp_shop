@@ -1,0 +1,30 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/pics/pics",
+          "pathName": "pages/pics/pics",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/member/member",
+          "pathName": "pages/member/member",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

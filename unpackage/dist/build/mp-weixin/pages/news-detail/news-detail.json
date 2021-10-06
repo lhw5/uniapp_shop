@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "列表详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-goods-nav": "/components/uni-goods-nav/uni-goods-nav"
+  }
+}

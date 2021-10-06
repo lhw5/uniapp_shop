@@ -1,0 +1,1 @@
+<view class="contact"><image src="http://www.itcast.cn/2018czydz/images/gywmban.jpg"></image><view class="info"><view data-event-opts="{{[['tap',[['call',['$event']]]]]}}" bindtap="__e">联系电话：中国移动---10086 (点击拨打)</view><view>Github：https://github.com/lhw5</view><map longitude="{{longitude}}" latitude="{{latitude}}" markers="{{markers}}"></map></view></view>
