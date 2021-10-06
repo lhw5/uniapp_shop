@@ -17,9 +17,7 @@
             "delay" : 0
         },
         /* 模块配置 */
-        "modules" : {
-            "Maps" : {}
-        },
+        "modules" : {},
         /* 应用发布信息 */
         "distribute" : {
             /* android打包配置 */
@@ -46,12 +44,7 @@
             /* SDK配置 */
             "sdkConfigs" : {
                 "ad" : {},
-                "maps" : {
-                    "amap" : {
-                        "appkey_ios" : "",
-                        "appkey_android" : ""
-                    }
-                },
+                "maps" : {},
                 "geolocation" : {}
             },
             "icons" : {
@@ -167,7 +160,8 @@
         },
         "title" : "U你商城",
         "router" : {
-            "mode" : "history"
+            "mode" : "hash",
+            "base" : "./"
         },
         "optimization" : {
             "treeShaking" : {
