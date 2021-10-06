@@ -173,6 +173,7 @@
             "treeShaking" : {
                 "enable" : true
             }
-        }
+        },
+        "domain" : "https://github.com/lhw5/uniapp_shop"
     }
 }
